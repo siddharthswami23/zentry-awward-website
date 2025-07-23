@@ -1,11 +1,11 @@
-import React from 'react'
+import React from 'react';
 
 const App = () => {
   return (
-    <div className="min-h-screen bg-gray-100 flex items-center justify-center ">
-      <h1 className="text-4xl font-bold font-general">Hello, Tailwind CSS!</h1>
+    <div className='bg-red-300 font-circular-web'>
+      app
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
